@@ -1,3 +1,6 @@
 python-dotenv
 langchain
-
+langchain_groq
+fastapi
+langserve
+uvcorn
